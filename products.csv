@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price,Discount
+1,Apple,Fruit,120,10
+2,Banana,Fruit,40,5
+3,Orange,Fruit,80,15
+4,Grapes,Fruit,90,20
+5,Mango,Fruit,150,10
+6,Pineapple,Fruit,100,5
+7,Watermelon,Fruit,60,10
+8,Papaya,Fruit,70,15
+9,Pomegranate,Fruit,140,20
+10,Guava,Fruit,50,5
+11,Tomato,Vegetable,30,10
+12,Potato,Vegetable,40,5
+13,Onion,Vegetable,35,10
+14,Carrot,Vegetable,60,15
+15,Beans,Vegetable,70,10
+16,Cabbage,Vegetable,45,5
+17,Cauliflower,Vegetable,55,10
+18,Brinjal,Vegetable,50,15
+19,Ladies Finger,Vegetable,65,10
+20,Cucumber,Vegetable,40,5
